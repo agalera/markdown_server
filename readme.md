@@ -3,7 +3,7 @@
 ## SUMMARY
 This is a single server, all you have in the "files" folder serves it via web
 
-#REQUIREMENTS
+## REQUIREMENTS
 
 * python 2.7
 * gunicorn
