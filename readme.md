@@ -1,7 +1,7 @@
 # Markdown server
 
 ## SUMMARY
-This is a single server, all you have in the "files" folder serves it via web
+This is a simple server, all you have in the "files" folder serves it via web
 
 ## REQUIREMENTS
 
